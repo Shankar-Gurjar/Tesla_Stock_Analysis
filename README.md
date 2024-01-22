@@ -1,4 +1,5 @@
 #Time Series Analysis
+
 Tesla Stock Forecasting by Time Series Models By getting the Tesla Company’s stock information (NASDAQ: TSLA) through the Yahoo Finance. This project will apply the time series analysis methods to investigate the TSLA’s basic information, decompose the TLSA’s time series.
 The exponential smoothing methods to forecast the TSLA’s price in the coming 365 days, and then will use
 The ARIMA model to predict the price. This project also will check the Then we forecast error distribution to check the model’s performance.
